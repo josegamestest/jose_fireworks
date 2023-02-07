@@ -15,4 +15,3 @@ sfx por sockettgirl e editado por joseanastacio
 Este mod e um simples mod ainda sendo implementado,
 o jogador pode atirar pra cima foguetes que estouram com brilhos coloridos, ótimo pra comemorar e se divertir
 Não recomendo para servidores, da mesma forma que não recomendo nada que atire dardos ou algo assim em servidores.
-![image](https://notabug.org/josegamestest/jose_fireworks/src/master/screenshot.png)
